@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["500 Avenue West, Braintree, CM77 7AA",{"entities":[[0,3,"STREET_NUMBER"],[4,15,"STREET_NAME"],[17,26,"CITY"],[28,36,"ZIP"]]}]]}

@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["LodeStar Harvey House, Lode, Cambridge, CB25 9HB",{"entities":[[0,21,"STREET_NAME"],[23,27,"CITY"],[29,38,"REGION"],[40,48,"ZIP"]]}]]}

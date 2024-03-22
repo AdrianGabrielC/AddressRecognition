@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["11 Maisies Way South Normanton Derbyshire, DE55 2DS",{"entities":[[0,2,"STREET_NUMBER"],[3,20,"STREET_NAME"],[21,30,"CITY"],[31,41,"REGION"],[43,51,"ZIP"]]}]]}

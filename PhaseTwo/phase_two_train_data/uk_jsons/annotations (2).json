@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["1 St John Street, Chester, CH1 1DA\r",{"entities":[[0,1,"STREET_NUMBER"],[2,16,"STREET_NAME"],[18,25,"CITY"],[27,34,"ZIP"]]}],["",{"entities":[]}]]}

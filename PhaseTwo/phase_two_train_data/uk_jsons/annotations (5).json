@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["75 Turnmill Street London EC1M 5SY",{"entities":[[0,2,"STREET_NUMBER"],[3,18,"STREET_NAME"],[19,25,"CITY"],[26,34,"ZIP"]]}]]}

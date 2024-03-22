@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["62 Stagshaw Close Maidstone, Kent ME15 6TN",{"entities":[[0,2,"STREET_NUMBER"],[3,17,"STREET_NAME"],[18,27,"CITY"],[29,33,"REGION"],[34,42,"ZIP"]]}]]}

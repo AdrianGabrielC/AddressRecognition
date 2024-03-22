@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["7 Savannah Way Leeds LS10 1AB",{"entities":[[0,1,"STREET_NUMBER"],[2,14,"STREET_NAME"],[15,20,"CITY"],[21,29,"ZIP"]]}]]}

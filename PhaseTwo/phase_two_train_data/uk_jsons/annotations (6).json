@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["2 Upper Teddington Road, KingstonUponThames, Surrey. KT1 4DY",{"entities":[[0,1,"STREET_NUMBER"],[2,23,"STREET_NAME"],[25,43,"CITY"],[45,52,"REGION"],[53,60,"ZIP"]]}]]}

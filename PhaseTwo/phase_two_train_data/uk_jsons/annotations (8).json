@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["4 Brunel Close, Harworth, Doncaster, South Yorkshire, DN11 8QA",{"entities":[[0,1,"STREET_NUMBER"],[2,24,"STREET_NAME"],[26,35,"CITY"],[37,52,"REGION"],[54,62,"ZIP"]]}]]}

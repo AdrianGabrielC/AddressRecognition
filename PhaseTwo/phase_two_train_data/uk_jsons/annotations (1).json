@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["Russell Road, Edinburgh EH11 2LS\r",{"entities":[[0,12,"STREET_NAME"],[14,23,"CITY"],[24,32,"ZIP"]]}],["",{"entities":[]}]]}

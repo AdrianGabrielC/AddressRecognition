@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["8 Dundas Close Portsmouth PO3 5RB",{"entities":[[0,1,"STREET_NUMBER"],[2,14,"STREET_NAME"],[15,25,"CITY"],[26,33,"ZIP"]]}]]}

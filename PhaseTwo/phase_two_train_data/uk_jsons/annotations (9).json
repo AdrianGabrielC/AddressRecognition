@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["16B Norman Way, Severn Bridge Ind Est, Caldicot, NP26 5PT",{"entities":[[0,3,"STREET_NUMBER"],[4,14,"STREET_NAME"],[16,37,"CITY"],[39,47,"REGION"],[49,57,"ZIP"]]}]]}

@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["6 Queens Road, Aberdeen, AB15 4ZT",{"entities":[[0,1,"STREET_NUMBER"],[2,13,"STREET_NAME"],[15,23,"CITY"],[25,33,"ZIP"]]}]]}

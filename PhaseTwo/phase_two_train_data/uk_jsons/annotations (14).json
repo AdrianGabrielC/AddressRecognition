@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["9 Archer Road, Stapleford, Nottingham, Nottinghamshire, NG9 7EP",{"entities":[[0,1,"STREET_NUMBER"],[2,25,"STREET_NAME"],[27,37,"CITY"],[39,54,"REGION"],[56,63,"ZIP"]]}]]}

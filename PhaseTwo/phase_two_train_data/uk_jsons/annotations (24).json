@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["65, Lancaster Road Industrial Estate, Lancaster Road, Barnet, Hertfordshire. EN4 8AS",{"entities":[[0,2,"STREET_NUMBER"],[4,52,"STREET_NAME"],[54,60,"CITY"],[62,76,"REGION"],[77,84,"ZIP"]]}]]}

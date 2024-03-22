@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["66 King Edward Avenue Rainham, RM13 9RJ",{"entities":[[0,2,"STREET_NUMBER"],[3,21,"STREET_NAME"],[22,29,"CITY"],[31,39,"ZIP"]]}]]}

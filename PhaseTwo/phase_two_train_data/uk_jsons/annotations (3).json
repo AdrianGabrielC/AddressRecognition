@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["2 Woodfield Road, Welwyn Garden City, England, AL7 1JQ",{"entities":[[0,1,"STREET_NUMBER"],[2,16,"STREET_NAME"],[18,36,"CITY"],[38,45,"REGION"],[47,54,"ZIP"]]}]]}

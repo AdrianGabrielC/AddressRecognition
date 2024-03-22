@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["99 Mabgate Road Leeds LS9 7DR",{"entities":[[0,2,"STREET_NUMBER"],[3,15,"STREET_NAME"],[16,21,"CITY"],[22,29,"ZIP"]]}]]}

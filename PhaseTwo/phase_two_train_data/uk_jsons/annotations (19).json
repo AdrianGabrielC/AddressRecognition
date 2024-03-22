@@ -1,0 +1,1 @@
+{"classes":["STREET_NUMBER","STREET_NAME","CITY","REGION","ZIP"],"annotations":[["331 Styal Rd Manchester M22 5LW",{"entities":[[0,3,"STREET_NUMBER"],[4,12,"STREET_NAME"],[13,23,"CITY"],[24,31,"ZIP"]]}]]}
